@@ -115,3 +115,5 @@ Margin of error = Critical value * Standard error
 Consider outlier as maximum or minimum unless stated otherwise
 
 Edited SAE Cheatsheet
+
+Edited SAE Cheatsheet #2
