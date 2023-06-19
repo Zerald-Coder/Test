@@ -113,3 +113,5 @@ Confidence interval = Point estimate +- Margin of error
 Margin of error = Critical value * Standard error
 
 Consider outlier as maximum or minimum unless stated otherwise
+
+Edited SAE Cheatsheet
